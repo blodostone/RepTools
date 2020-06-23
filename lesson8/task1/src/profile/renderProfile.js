@@ -6,4 +6,4 @@ export default ({ name, location }) => {
 
     nameElem.textContent = name;
     locationElem.textContent = `from ${location}`;
-};
+}
